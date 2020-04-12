@@ -1,0 +1,9 @@
+---
+name: cc
+version: 0.0.1
+main: Shallow\cc\Main
+api: 3.6.5
+commands:
+  clearc:
+    description: Clear Chat
+...
